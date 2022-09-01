@@ -34,3 +34,4 @@ imgBlackAndWhite.forEach(element => {
     // })
 
 });
+document.getElementById('message').innerHTML = document.getElementById('message').innerHTML.trim();
