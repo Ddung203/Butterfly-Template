@@ -1,0 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.input-hidden {
+  outline: none;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
