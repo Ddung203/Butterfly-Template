@@ -508,7 +508,7 @@ a:hover {
 }
 .slider {
   position: relative;
-  background-image: url("../img/cta-bg.png");
+  background-image: url("https://img.freepik.com/free-vector/white-technology-background_23-2148403783.jpg?t=st=1725045246~exp=1725048846~hmac=4beb112d67a89c5fb0dba97a35c10491c058cc142e8303b804a914f2a83aece6&w=1060");
   background-position: 50% 50%;
   background-size: cover;
   color: #444444;
@@ -519,7 +519,7 @@ a:hover {
   flex-direction: column;
 }
 .slider .slider__inner {
-  background-image: url("../img/cta-bg.png");
+  /* background-image: url("https://img.freepik.com/free-vector/abstract-blue-technology-background_23-2149352058.jpg?t=st=1725045039~exp=1725048639~hmac=69388c311ce473f7a27eabb6abdf8692a817a9f65ec8606d993bef46db76dd66&w=1060"); */
   background-position: 50% 50%;
   background-size: cover;
   color: #444444;
